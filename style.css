@@ -1,0 +1,34 @@
+
+body {
+      position: relative; 
+}
+
+.container-fluid1 {
+      background-color: #b307b3ff;
+      color:#ffffff;
+}
+
+.container-fluid1 img {
+      border-radius: 50%;
+      padding: 20px;
+      margin-left: 30%;
+}
+
+.tituloparte1 {
+      margin-right: 10%;
+}
+
+.container-fluid2 {
+      background-color: #9345c7ff;
+      color:#ffffff;
+}
+
+.container-fluid3 {
+      background-color: #40abe3ff;
+      color:#ffffff;
+}
+
+.container-fluid4 {
+      background-color: #00ffff;
+      color:#ffffff;
+}
