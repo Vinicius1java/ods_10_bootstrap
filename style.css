@@ -11,7 +11,8 @@ body {
 .container-fluid1 img {
       border-radius: 50%;
       padding: 20px;
-      margin-left: 30%;
+      margin-left: 20%;
+      margin-top:10%;
 }
 
 .tituloparte1 {
@@ -21,6 +22,18 @@ body {
 .container-fluid2 {
       background-color: #9345c7ff;
       color:#ffffff;
+}
+
+.tituloparte2 {
+       margin-left: 20%;
+}
+
+.container-fluid2 img {
+      margin-left: 1%;    
+}
+
+.col-sm-6 h2 {
+      margin-left: 9%;
 }
 
 .container-fluid3 {
