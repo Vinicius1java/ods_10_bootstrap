@@ -53,3 +53,7 @@ body {
       background-color: #00ffff;
       color:#ffffff;
 }
+
+.carousel-inner img {
+      height: 100px auto;
+}
